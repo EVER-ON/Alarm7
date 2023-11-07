@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Alarm</string>
+    <string name="action_settings">Настройки</string>
+
+    <string name="note_text">Введите текст</string>
+    <string name="note_details_title">Напоминание</string>
+    <string name="save">Сохранить</string>
+    <string name="completed">Выполнение</string>
+</resources>
